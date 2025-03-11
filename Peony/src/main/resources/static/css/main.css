@@ -1,0 +1,15 @@
+.container {
+    display: grid;
+    grid-template-areas:
+        "header"
+        "content"
+        "footer";
+    grid-template-columns: auto;
+    gap: 20px;
+}
+header { grid-area: header; }
+main {
+    grid-area: content;
+    min-height: 250px;
+}
+footer { grid-area: footer; }
