@@ -1,2 +1,8 @@
-# prototype-peony
-Kotlin, MongoDB, Spring Boot, Mustache dependant web application blueprint
+# [prototype] PEONY 
+A Kotlin web application
+
+| Framework         | Version |
+|-----------|---------|
+|  MongoDB  |         |
+|  Mustache |         |
+|  Gradle   |         |
